@@ -3,804 +3,1072 @@
     "year": 2026,
     "date": "2026-03-24",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Grandma birthday"
+    "trip": "Grandma birthday",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2026,
     "date": "2026-03-19",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Grandma birthday"
+    "trip": "Grandma birthday",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2026,
     "date": "2026-03-03",
     "route": "Malaga (AGP) -> Warsaw (WAW)",
-    "trip": "Trip to Malaga"
+    "trip": "Trip to Malaga",
+    "distance": 2632,
+    "duration": "4h 07m"
   },
   {
     "year": 2026,
     "date": "2026-02-27",
     "route": "Warsaw (WAW) -> Malaga (AGP)",
-    "trip": "Trip to Malaga"
+    "trip": "Trip to Malaga",
+    "distance": 2632,
+    "duration": "4h 07m"
   },
   {
     "year": 2026,
     "date": "2026-01-07",
     "route": "Istanbul (IST) -> Warsaw (WAW)",
-    "trip": "Trip to Istanbul"
+    "trip": "Trip to Istanbul",
+    "distance": 1347,
+    "duration": "2h 29m"
   },
   {
     "year": 2026,
     "date": "2026-01-05",
     "route": "Warsaw (WAW) -> Istanbul (IST)",
-    "trip": "Trip to Istanbul"
+    "trip": "Trip to Istanbul",
+    "distance": 1347,
+    "duration": "2h 29m"
   },
   {
     "year": 2025,
     "date": "2025-12-28",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2025,
     "date": "2025-12-21",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2025,
     "date": "2025-11-23",
     "route": "Gdansk (GDN) -> Warsaw (WAW)",
-    "trip": "Ela's Birthday"
+    "trip": "Ela's Birthday",
+    "distance": 297,
+    "duration": "1h 08m"
   },
   {
     "year": 2025,
     "date": "2025-11-23",
     "route": "Amsterdam (AMS) -> Gdansk (GDN)",
-    "trip": "Ela's Birthday"
+    "trip": "Ela's Birthday",
+    "distance": 937,
+    "duration": "1h 57m"
   },
   {
     "year": 2025,
     "date": "2025-11-23",
     "route": "Stuttgart (STR) -> Amsterdam (AMS)",
-    "trip": "Ela's Birthday"
+    "trip": "Ela's Birthday",
+    "distance": 511,
+    "duration": "1h 24m"
   },
   {
     "year": 2025,
     "date": "2025-11-20",
     "route": "Warsaw (WAW) -> Stuttgart (STR)",
-    "trip": "Ela's Birthday"
+    "trip": "Ela's Birthday",
+    "distance": 916,
+    "duration": "1h 55m"
   },
   {
     "year": 2025,
     "date": "2025-09-26",
     "route": "Antalya (AYT) -> Warsaw (WAW)",
-    "trip": "Trip to Antalya"
+    "trip": "Trip to Antalya",
+    "distance": 1864,
+    "duration": "3h 08m"
   },
   {
     "year": 2025,
     "date": "2025-09-22",
     "route": "Warsaw (WAW) -> Antalya (AYT)",
-    "trip": "Trip to Antalya"
+    "trip": "Trip to Antalya",
+    "distance": 1864,
+    "duration": "3h 08m"
   },
   {
     "year": 2025,
     "date": "2025-06-16",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2025,
     "date": "2025-05-30",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2025,
     "date": "2025-05-11",
     "route": "New York (JFK) -> Warsaw (WAW)",
-    "trip": "Trip to New York"
+    "trip": "Trip to New York",
+    "distance": 6848,
+    "duration": "9h 32m"
   },
   {
     "year": 2025,
     "date": "2025-05-03",
     "route": "Warsaw (WAW) -> New York (JFK)",
-    "trip": "Trip to New York"
+    "trip": "Trip to New York",
+    "distance": 6848,
+    "duration": "9h 32m"
   },
   {
     "year": 2025,
     "date": "2025-02-28",
     "route": "Tel Aviv (TLV) -> Warsaw (WAW)",
-    "trip": "Business trip to Israel"
+    "trip": "Business trip to Israel",
+    "distance": 2508,
+    "duration": "3h 58m"
   },
   {
     "year": 2025,
     "date": "2025-02-23",
     "route": "Warsaw (WAW) -> Tel Aviv (TLV)",
-    "trip": "Business trip to Israel"
+    "trip": "Business trip to Israel",
+    "distance": 2508,
+    "duration": "3h 58m"
   },
   {
     "year": 2025,
     "date": "2025-02-15",
     "route": "Madrid (MAD) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2270,
+    "duration": "3h 40m"
   },
   {
     "year": 2025,
     "date": "2025-02-15",
     "route": "Porto (OPO) -> Madrid (MAD)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 438,
+    "duration": "1h 19m"
   },
   {
     "year": 2025,
     "date": "2025-02-06",
     "route": "Bergamo (BGY) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 1559,
+    "duration": "2h 45m"
   },
   {
     "year": 2025,
     "date": "2025-02-06",
     "route": "Warsaw (WAW) -> Bergamo (BGY)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 1092,
+    "duration": "2h 09m"
   },
   {
     "year": 2024,
     "date": "2024-11-07",
     "route": "Qatar (DOH) -> Warsaw (WAW)",
-    "trip": "Trip to Japan"
+    "trip": "Trip to Japan",
+    "distance": 3946,
+    "duration": "5h 49m"
   },
   {
     "year": 2024,
     "date": "2024-11-06",
     "route": "Tokyo (NRT) -> Qatar (DOH)",
-    "trip": "Trip to Japan"
+    "trip": "Trip to Japan",
+    "distance": 8298,
+    "duration": "11h 23m"
   },
   {
     "year": 2024,
     "date": "2024-10-24",
     "route": "Qatar (DOH) -> Tokyo (NRT)",
-    "trip": "Trip to Japan"
+    "trip": "Trip to Japan",
+    "distance": 8298,
+    "duration": "11h 23m"
   },
   {
     "year": 2024,
     "date": "2024-10-23",
     "route": "Warsaw (WAW) -> Qatar (DOH)",
-    "trip": "Trip to Japan"
+    "trip": "Trip to Japan",
+    "distance": 3946,
+    "duration": "5h 49m"
   },
   {
     "year": 2024,
     "date": "2024-07-14",
     "route": "Zakynthos (ZTH) -> Warsaw (WAW)",
-    "trip": "Trip to Zakynthos"
+    "trip": "Trip to Zakynthos",
+    "distance": 1603,
+    "duration": "2h 48m"
   },
   {
     "year": 2024,
     "date": "2024-07-09",
     "route": "Warsaw (WAW) -> Zakynthos (ZTH)",
-    "trip": "Trip to Zakynthos"
+    "trip": "Trip to Zakynthos",
+    "distance": 1603,
+    "duration": "2h 48m"
   },
   {
     "year": 2024,
     "date": "2024-06-15",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2024,
     "date": "2024-06-08",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2024,
     "date": "2024-01-08",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2023,
     "date": "2023-12-15",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2023,
     "date": "2023-11-20",
     "route": "Larnaca (LCA) -> Warsaw (WAW)",
-    "trip": "Trip to Cyprus"
+    "trip": "Trip to Cyprus",
+    "distance": 2169,
+    "duration": "3h 32m"
   },
   {
     "year": 2023,
     "date": "2023-11-17",
     "route": "Warsaw (WAW) -> Larnaca (LCA)",
-    "trip": "Trip to Cyprus"
+    "trip": "Trip to Cyprus",
+    "distance": 2169,
+    "duration": "3h 32m"
   },
   {
     "year": 2023,
     "date": "2023-10-08",
     "route": "Reykjavik (KEF) -> Warsaw (WAW)",
-    "trip": "Trip to Iceland"
+    "trip": "Trip to Iceland",
+    "distance": 2804,
+    "duration": "4h 21m"
   },
   {
     "year": 2023,
     "date": "2023-10-01",
     "route": "Warsaw (WAW) -> Reykjavik (KEF)",
-    "trip": "Trip to Iceland"
+    "trip": "Trip to Iceland",
+    "distance": 2804,
+    "duration": "4h 21m"
   },
   {
     "year": 2023,
     "date": "2023-07-24",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Wedding and Azores"
+    "trip": "Wedding and Azores",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2023,
     "date": "2023-07-22",
     "route": "Terceira (TER) -> Porto (OPO)",
-    "trip": "Wedding and Azores"
+    "trip": "Wedding and Azores",
+    "distance": 1589,
+    "duration": "2h 47m"
   },
   {
     "year": 2023,
     "date": "2023-07-19",
     "route": "Ponta Delgada (PDL) -> Terceira (TER)",
-    "trip": "Wedding and Azores"
+    "trip": "Wedding and Azores",
+    "distance": 166,
+    "duration": "0h 58m"
   },
   {
     "year": 2023,
     "date": "2023-07-17",
     "route": "Porto (OPO) -> Ponta Delgada (PDL)",
-    "trip": "Wedding and Azores"
+    "trip": "Wedding and Azores",
+    "distance": 1509,
+    "duration": "2h 41m"
   },
   {
     "year": 2023,
     "date": "2023-07-03",
     "route": "Berlin (BER) -> Porto (OPO)",
-    "trip": "Wedding and Azores"
+    "trip": "Wedding and Azores",
+    "distance": 2078,
+    "duration": "3h 25m"
   },
   {
     "year": 2023,
     "date": "2023-05-19",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2023,
     "date": "2023-05-08",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2023,
     "date": "2023-01-23",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2023,
     "date": "2023-01-13",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2022,
     "date": "2022-11-28",
     "route": "Naples (NAP) -> Warsaw (WAW)",
-    "trip": "Trip to Naples"
+    "trip": "Trip to Naples",
+    "distance": 1353,
+    "duration": "2h 29m"
   },
   {
     "year": 2022,
     "date": "2022-11-25",
     "route": "Warsaw (WAW) -> Naples (NAP)",
-    "trip": "Trip to Naples"
+    "trip": "Trip to Naples",
+    "distance": 1353,
+    "duration": "2h 29m"
   },
   {
     "year": 2022,
     "date": "2022-10-16",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2022,
     "date": "2022-09-27",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2022,
     "date": "2022-06-18",
     "route": "Vienna (VIE) -> Warsaw (WAW)",
-    "trip": "Trip to Budapest and Vienna"
+    "trip": "Trip to Budapest and Vienna",
+    "distance": 549,
+    "duration": "1h 27m"
   },
   {
     "year": 2022,
     "date": "2022-06-15",
     "route": "Warsaw (WAW) -> Budapest (BUD)",
-    "trip": "Trip to Budapest and Vienna"
+    "trip": "Trip to Budapest and Vienna",
+    "distance": 540,
+    "duration": "1h 27m"
   },
   {
     "year": 2022,
     "date": "2022-04-19",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Madeira and home"
+    "trip": "Visit Madeira and home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2022,
     "date": "2022-04-05",
     "route": "Madeira (FNC) -> Porto (OPO)",
-    "trip": "Visit Madeira and home"
+    "trip": "Visit Madeira and home",
+    "distance": 1191,
+    "duration": "2h 17m"
   },
   {
     "year": 2022,
     "date": "2022-03-30",
     "route": "Porto (OPO) -> Madeira (FNC)",
-    "trip": "Visit Madeira and home"
+    "trip": "Visit Madeira and home",
+    "distance": 1191,
+    "duration": "2h 17m"
   },
   {
     "year": 2022,
     "date": "2022-03-29",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Madeira and home"
+    "trip": "Visit Madeira and home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2021,
     "date": "2021-12-28",
     "route": "Lisbon (LIS) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2749,
+    "duration": "4h 16m"
   },
   {
     "year": 2021,
     "date": "2021-12-28",
     "route": "Porto (OPO) -> Lisbon (LIS)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 277,
+    "duration": "1h 06m"
   },
   {
     "year": 2021,
     "date": "2021-12-11",
     "route": "Lisbon (LIS) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 277,
+    "duration": "1h 06m"
   },
   {
     "year": 2021,
     "date": "2021-12-11",
     "route": "Warsaw (WAW) -> Lisbon (LIS)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2749,
+    "duration": "4h 16m"
   },
   {
     "year": 2021,
     "date": "2021-11-17",
     "route": "Paris (CDG) -> Warsaw (WAW)",
-    "trip": "Trip to Paris"
+    "trip": "Trip to Paris",
+    "distance": 1342,
+    "duration": "2h 28m"
   },
   {
     "year": 2021,
     "date": "2021-11-14",
     "route": "Warsaw (WAW) -> Paris (CDG)",
-    "trip": "Trip to Paris"
+    "trip": "Trip to Paris",
+    "distance": 1342,
+    "duration": "2h 28m"
   },
   {
     "year": 2021,
     "date": "2021-10-09",
     "route": "Cagliari (CAG) -> Warsaw (WAW)",
-    "trip": "Trip to Sardinia"
+    "trip": "Trip to Sardinia",
+    "distance": 1703,
+    "duration": "2h 56m"
   },
   {
     "year": 2021,
     "date": "2021-10-06",
     "route": "Warsaw (WAW) -> Cagliari (CAG)",
-    "trip": "Trip to Sardinia"
+    "trip": "Trip to Sardinia",
+    "distance": 1703,
+    "duration": "2h 56m"
   },
   {
     "year": 2021,
     "date": "2021-07-23",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2021,
     "date": "2021-07-09",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2021,
     "date": "2021-05-29",
     "route": "Tenerife (TFS) -> Warsaw (WAW)",
-    "trip": "Trip to Tenerife"
+    "trip": "Trip to Tenerife",
+    "distance": 4094,
+    "duration": "6h 00m"
   },
   {
     "year": 2021,
     "date": "2021-05-22",
     "route": "Warsaw (WAW) -> Tenerife (TFS)",
-    "trip": "Trip to Tenerife"
+    "trip": "Trip to Tenerife",
+    "distance": 4094,
+    "duration": "6h 00m"
   },
   {
     "year": 2021,
     "date": "2021-01-08",
     "route": "Porto (OPO) -> Krakow (KRK)",
-    "trip": "NYE at home"
+    "trip": "NYE at home",
+    "distance": 2401,
+    "duration": "3h 50m"
   },
   {
     "year": 2020,
     "date": "2020-12-20",
     "route": "Madrid (MAD) -> Porto (OPO)",
-    "trip": "NYE at home"
+    "trip": "NYE at home",
+    "distance": 438,
+    "duration": "1h 19m"
   },
   {
     "year": 2020,
     "date": "2020-12-20",
     "route": "Warsaw (WAW) -> Madrid (MAD)",
-    "trip": "NYE at home"
+    "trip": "NYE at home",
+    "distance": 2270,
+    "duration": "3h 40m"
   },
   {
     "year": 2020,
     "date": "2020-08-24",
     "route": "Bergamo (BGY) -> Warsaw (WAW)",
-    "trip": "Trip to Italy"
+    "trip": "Trip to Italy",
+    "distance": 1092,
+    "duration": "2h 09m"
   },
   {
     "year": 2020,
     "date": "2020-08-20",
     "route": "Warsaw (WAW) -> Bergamo (BGY)",
-    "trip": "Trip to Italy"
+    "trip": "Trip to Italy",
+    "distance": 1092,
+    "duration": "2h 09m"
   },
   {
     "year": 2020,
     "date": "2020-08-17",
     "route": "Budapest (BUD) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 540,
+    "duration": "1h 27m"
   },
   {
     "year": 2020,
     "date": "2020-08-16",
     "route": "Porto (OPO) -> Budapest (BUD)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2311,
+    "duration": "3h 43m"
   },
   {
     "year": 2020,
     "date": "2020-08-02",
     "route": "Budapest (BUD) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2311,
+    "duration": "3h 43m"
   },
   {
     "year": 2020,
     "date": "2020-08-02",
     "route": "Warsaw (WAW) -> Budapest (BUD)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 540,
+    "duration": "1h 27m"
   },
   {
     "year": 2020,
     "date": "2020-03-03",
     "route": "Qatar (DOH) -> Warsaw (WAW)",
-    "trip": "Trip to Thailand and Singapore"
+    "trip": "Trip to Thailand and Singapore",
+    "distance": 3946,
+    "duration": "5h 49m"
   },
   {
     "year": 2020,
     "date": "2020-03-03",
     "route": "Bangkok (BKK) -> Qatar (DOH)",
-    "trip": "Trip to Thailand and Singapore"
+    "trip": "Trip to Thailand and Singapore",
+    "distance": 5279,
+    "duration": "7h 31m"
   },
   {
     "year": 2020,
     "date": "2020-03-01",
     "route": "Singapore (SIN) -> Bangkok (BKK)",
-    "trip": "Trip to Thailand and Singapore"
+    "trip": "Trip to Thailand and Singapore",
+    "distance": 1417,
+    "duration": "2h 34m"
   },
   {
     "year": 2020,
     "date": "2020-02-28",
     "route": "Krabi (KBV) -> Singapore (SIN)",
-    "trip": "Trip to Thailand and Singapore"
+    "trip": "Trip to Thailand and Singapore",
+    "distance": 933,
+    "duration": "1h 57m"
   },
   {
     "year": 2020,
     "date": "2020-02-22",
     "route": "Bangkok (BKK) -> Krabi (KBV)",
-    "trip": "Trip to Thailand and Singapore"
+    "trip": "Trip to Thailand and Singapore",
+    "distance": 650,
+    "duration": "1h 35m"
   },
   {
     "year": 2020,
     "date": "2020-02-20",
     "route": "Qatar (DOH) -> Bangkok (BKK)",
-    "trip": "Trip to Thailand and Singapore"
+    "trip": "Trip to Thailand and Singapore",
+    "distance": 5279,
+    "duration": "7h 31m"
   },
   {
     "year": 2020,
     "date": "2020-02-19",
     "route": "Warsaw (WAW) -> Qatar (DOH)",
-    "trip": "Trip to Thailand and Singapore"
+    "trip": "Trip to Thailand and Singapore",
+    "distance": 3946,
+    "duration": "5h 49m"
   },
   {
     "year": 2020,
     "date": "2020-01-06",
     "route": "Lisbon (LIS) -> Warsaw (WAW)",
-    "trip": "NYE at home"
+    "trip": "NYE at home",
+    "distance": 2749,
+    "duration": "4h 16m"
   },
   {
     "year": 2020,
     "date": "2020-01-06",
     "route": "Porto (OPO) -> Lisbon (LIS)",
-    "trip": "NYE at home"
+    "trip": "NYE at home",
+    "distance": 277,
+    "duration": "1h 06m"
   },
   {
     "year": 2019,
     "date": "2019-12-27",
     "route": "Berlin (SXF) -> Porto (OPO)",
-    "trip": "NYE at home"
+    "trip": "NYE at home",
+    "distance": 2081,
+    "duration": "3h 25m"
   },
   {
     "year": 2019,
     "date": "2019-12-01",
     "route": "London (STN) -> Warsaw (WMI)",
-    "trip": "Marysia’s birthday"
+    "trip": "Marysia’s birthday",
+    "distance": 1389,
+    "duration": "2h 32m"
   },
   {
     "year": 2019,
     "date": "2019-11-29",
     "route": "Warsaw (WMI) -> London (STN)",
-    "trip": "Marysia’s birthday"
+    "trip": "Marysia’s birthday",
+    "distance": 1389,
+    "duration": "2h 32m"
   },
   {
     "year": 2019,
     "date": "2019-10-06",
     "route": "Stuttgart (STR) -> Krakow (KRK)",
-    "trip": "Oktoberfest Stuttgart"
+    "trip": "Oktoberfest Stuttgart",
+    "distance": 779,
+    "duration": "1h 45m"
   },
   {
     "year": 2019,
     "date": "2019-10-03",
     "route": "Krakow (KRK) -> Stuttgart (STR)",
-    "trip": "Oktoberfest Stuttgart"
+    "trip": "Oktoberfest Stuttgart",
+    "distance": 779,
+    "duration": "1h 45m"
   },
   {
     "year": 2019,
     "date": "2019-07-31",
     "route": "Faro (FAO) -> Wroclaw (WRO)",
-    "trip": "Vacations in Algarve"
+    "trip": "Vacations in Algarve",
+    "distance": 2508,
+    "duration": "3h 58m"
   },
   {
     "year": 2019,
     "date": "2019-07-24",
     "route": "Wroclaw (WRO) -> Faro (FAO)",
-    "trip": "Vacations in Algarve"
+    "trip": "Vacations in Algarve",
+    "distance": 2508,
+    "duration": "3h 58m"
   },
   {
     "year": 2019,
     "date": "2019-04-15",
     "route": "Athens (ATH) -> Poznań (POZ)",
-    "trip": "Visit to Athens"
+    "trip": "Visit to Athens",
+    "distance": 1702,
+    "duration": "2h 56m"
   },
   {
     "year": 2019,
     "date": "2019-04-12",
     "route": "Poznań (POZ) -> Athens (ATH)",
-    "trip": "Visit to Athens"
+    "trip": "Visit to Athens",
+    "distance": 1702,
+    "duration": "2h 56m"
   },
   {
     "year": 2019,
     "date": "2019-04-04",
     "route": "Porto (OPO) -> Warsaw (WAW)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2019,
     "date": "2019-03-31",
     "route": "Warsaw (WAW) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 00m"
   },
   {
     "year": 2019,
     "date": "2019-02-26",
     "route": "Malta (MLA) -> Warsaw (WAW)",
-    "trip": "Moving to Warsaw"
+    "trip": "Moving to Warsaw",
+    "distance": 1884,
+    "duration": "3h 10m"
   },
   {
     "year": 2019,
     "date": "2019-01-02",
     "route": "Katowice (KTW) -> Malta (MLA)",
-    "trip": "Christmas at home and NYE in Warsaw"
+    "trip": "Christmas at home and NYE in Warsaw",
+    "distance": 1667,
+    "duration": "2h 53m"
   },
   {
     "year": 2018,
     "date": "2018-12-28",
     "route": "Porto (OPO) -> Berlin (SXF)",
-    "trip": "Christmas at home and NYE in Warsaw"
+    "trip": "Christmas at home and NYE in Warsaw",
+    "distance": 2081,
+    "duration": "3h 25m"
   },
   {
     "year": 2018,
     "date": "2018-12-23",
     "route": "Malta (MLA) -> Porto (OPO)",
-    "trip": "Christmas at home and NYE in Warsaw"
+    "trip": "Christmas at home and NYE in Warsaw",
+    "distance": 2094,
+    "duration": "3h 26m"
   },
   {
     "year": 2018,
     "date": "2018-11-28",
     "route": "Brussels (CRL) -> Malta (MLA)",
-    "trip": "Marysia’s birthday"
+    "trip": "Marysia’s birthday",
+    "distance": 1801,
+    "duration": "3h 04m"
   },
   {
     "year": 2018,
     "date": "2018-11-23",
     "route": "Malta (MLA) -> Brussels (CRL)",
-    "trip": "Marysia’s birthday"
+    "trip": "Marysia’s birthday",
+    "distance": 1801,
+    "duration": "3h 04m"
   },
   {
     "year": 2018,
     "date": "2018-10-15",
     "route": "Poznań (POZ) -> Malta (MLA)",
-    "trip": "Visit Poznan"
+    "trip": "Visit Poznan",
+    "distance": 1851,
+    "duration": "3h 07m"
   },
   {
     "year": 2018,
     "date": "2018-10-12",
     "route": "Malta (MLA) -> Poznań (POZ)",
-    "trip": "Visit Poznan"
+    "trip": "Visit Poznan",
+    "distance": 1851,
+    "duration": "3h 07m"
   },
   {
     "year": 2018,
     "date": "2018-08-09",
     "route": "Nice (NCE) -> Malta (MLA)",
-    "trip": "Vacations in France"
+    "trip": "Vacations in France",
+    "distance": 1066,
+    "duration": "2h 07m"
   },
   {
     "year": 2018,
     "date": "2018-08-02",
     "route": "Malta (MLA) -> Nice (NCE)",
-    "trip": "Vacations in France"
+    "trip": "Vacations in France",
+    "distance": 1066,
+    "duration": "2h 07m"
   },
   {
     "year": 2018,
     "date": "2018-07-13",
     "route": "Porto (OPO) -> Malta (MLA)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2094,
+    "duration": "3h 26m"
   },
   {
     "year": 2018,
     "date": "2018-07-06",
     "route": "Malta (MLA) -> Porto (OPO)",
-    "trip": "Visit Home"
+    "trip": "Visit Home",
+    "distance": 2094,
+    "duration": "3h 26m"
   },
   {
     "year": 2018,
     "date": "2018-04-22",
     "route": "Wroclaw (WRO) -> Malta (MLA)",
-    "trip": "Paulina’s wedding"
+    "trip": "Paulina’s wedding",
+    "distance": 1706,
+    "duration": "2h 56m"
   },
   {
     "year": 2018,
     "date": "2018-04-20",
     "route": "Malta (MLA) -> Poznań (POZ)",
-    "trip": "Paulina’s wedding"
+    "trip": "Paulina’s wedding",
+    "distance": 1851,
+    "duration": "3h 07m"
   },
   {
     "year": 2018,
     "date": "2018-04-16",
     "route": "Nuremberg (NUE) -> Malta (MLA)",
-    "trip": "Matilda’s birthday"
+    "trip": "Matilda’s birthday",
+    "distance": 1542,
+    "duration": "2h 44m"
   },
   {
     "year": 2018,
     "date": "2018-04-14",
     "route": "Malta (MLA) -> Baden-Baden (FKB)",
-    "trip": "Matilda’s birthday"
+    "trip": "Matilda’s birthday",
+    "distance": 1529,
+    "duration": "2h 43m"
   },
   {
     "year": 2017,
     "date": "2017-12-26",
     "route": "Barcelona (BCN) -> Malta (MLA)",
-    "trip": "Christmas at home"
+    "trip": "Christmas at home",
+    "distance": 1234,
+    "duration": "2h 20m"
   },
   {
     "year": 2017,
     "date": "2017-12-26",
     "route": "Porto (OPO) -> Barcelona (BCN)",
-    "trip": "Christmas at home"
+    "trip": "Christmas at home",
+    "distance": 899,
+    "duration": "1h 54m"
   },
   {
     "year": 2017,
     "date": "2017-12-21",
     "route": "Madrid (MAD) -> Porto (OPO)",
-    "trip": "Christmas at home"
+    "trip": "Christmas at home",
+    "distance": 438,
+    "duration": "1h 19m"
   },
   {
     "year": 2017,
     "date": "2017-12-21",
     "route": "Malta (MLA) -> Madrid (MAD)",
-    "trip": "Christmas at home"
+    "trip": "Christmas at home",
+    "distance": 1656,
+    "duration": "2h 52m"
   },
   {
     "year": 2017,
     "date": "2017-11-27",
     "route": "Rome (CIA) -> Malta (MLA)",
-    "trip": "Marysia’s birthday"
+    "trip": "Marysia’s birthday",
+    "distance": 680,
+    "duration": "1h 37m"
   },
   {
     "year": 2017,
     "date": "2017-11-25",
     "route": "Malta (MLA) -> Rome (CIA)",
-    "trip": "Marysia’s birthday"
+    "trip": "Marysia’s birthday",
+    "distance": 680,
+    "duration": "1h 37m"
   },
   {
     "year": 2017,
     "date": "2017-08-25",
     "route": "Poznań (POZ) -> Malta (MLA)",
-    "trip": "Moving to Malta"
+    "trip": "Moving to Malta",
+    "distance": 1851,
+    "duration": "3h 07m"
   },
   {
     "year": 2017,
     "date": "2017-08-02",
     "route": "Porto (OPO) -> Berlin (SXF)",
-    "trip": "Leaving Portugal"
+    "trip": "Leaving Portugal",
+    "distance": 2081,
+    "duration": "3h 25m"
   },
   {
     "year": 2017,
     "date": "2017-06-28",
     "route": "Berlin (SXF) -> Porto (OPO)",
-    "trip": "Marysia’s parents’ birthday"
+    "trip": "Marysia’s parents’ birthday",
+    "distance": 2081,
+    "duration": "3h 25m"
   },
   {
     "year": 2017,
     "date": "2017-06-21",
     "route": "Porto (OPO) -> Berlin (SXF)",
-    "trip": "Marysia’s parents’ birthday"
+    "trip": "Marysia’s parents’ birthday",
+    "distance": 2081,
+    "duration": "3h 25m"
   },
   {
     "year": 2017,
     "date": "2017-02-20",
     "route": "Barcelona (BCN) -> Lisbon (LIS)",
-    "trip": "Visit to Barcelona"
+    "trip": "Visit to Barcelona",
+    "distance": 994,
+    "duration": "2h 01m"
   },
   {
     "year": 2017,
     "date": "2017-02-17",
     "route": "Lisbon (LIS) -> Barcelona (BCN)",
-    "trip": "Visit to Barcelona"
+    "trip": "Visit to Barcelona",
+    "distance": 994,
+    "duration": "2h 01m"
   },
   {
     "year": 2017,
     "date": "2017-01-02",
     "route": "Warsaw (WMI) -> Lisbon (LIS)",
-    "trip": "NYE in Warsaw"
+    "trip": "NYE in Warsaw",
+    "distance": 2741,
+    "duration": "4h 16m"
   },
   {
     "year": 2016,
     "date": "2016-12-26",
     "route": "Lisbon (LIS) -> Berlin (TXL)",
-    "trip": "NYE in Warsaw"
+    "trip": "NYE in Warsaw",
+    "distance": 2303,
+    "duration": "3h 42m"
   },
   {
     "year": 2016,
     "date": "2016-02-11",
     "route": "Amsterdam (AMS) -> Porto (OPO)",
-    "trip": "Visit to S. Petersburg"
+    "trip": "Visit to S. Petersburg",
+    "distance": 1595,
+    "duration": "2h 48m"
   },
   {
     "year": 2016,
     "date": "2016-02-11",
     "route": "Saint Petersburg (LED) -> Amsterdam (AMS)",
-    "trip": "Visit to S. Petersburg"
+    "trip": "Visit to S. Petersburg",
+    "distance": 1773,
+    "duration": "3h 01m"
   },
   {
     "year": 2016,
     "date": "2016-02-04",
     "route": "Paris (CDG) -> Saint Petersburg (LED)",
-    "trip": "Visit to S. Petersburg"
+    "trip": "Visit to S. Petersburg",
+    "distance": 2133,
+    "duration": "3h 29m"
   },
   {
     "year": 2016,
     "date": "2016-02-04",
     "route": "Porto (OPO) -> Paris (CDG)",
-    "trip": "Visit to S. Petersburg"
+    "trip": "Visit to S. Petersburg",
+    "distance": 1231,
+    "duration": "2h 20m"
   },
   {
     "year": 2014,
     "date": "2014-08-07",
     "route": "Rome (CIA) -> Porto (OPO)",
-    "trip": "Interrail 2014"
+    "trip": "Interrail 2014",
+    "distance": 1768,
+    "duration": "3h 01m"
   },
   {
     "year": 2014,
     "date": "2014-07-17",
     "route": "Porto (OPO) -> Paris (CDG)",
-    "trip": "Interrail 2014"
+    "trip": "Interrail 2014",
+    "distance": 1231,
+    "duration": "2h 20m"
   }
 ]
