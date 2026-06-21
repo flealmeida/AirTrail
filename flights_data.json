@@ -1,4 +1,60 @@
-﻿[
+[
+  {
+    "year": 2026,
+    "date": "2026-06-07",
+    "route": "Abu Dhabi (AUH) -> Warsaw (WAW)",
+    "trip": "Asia Trip 2026",
+    "distance": 4370,
+    "duration": "6h 00m"
+  },
+  {
+    "year": 2026,
+    "date": "2026-06-06",
+    "route": "Beijing Daxing (PKX) -> Abu Dhabi (AUH)",
+    "trip": "Asia Trip 2026",
+    "distance": 5960,
+    "duration": "8h 50m"
+  },
+  {
+    "year": 2026,
+    "date": "2026-05-30",
+    "route": "Shanghai Pudong (PVG) -> Xi'an (XIY)",
+    "trip": "Asia Trip 2026",
+    "distance": 1340,
+    "duration": "2h 10m"
+  },
+  {
+    "year": 2026,
+    "date": "2026-05-28",
+    "route": "Seoul Incheon (ICN) -> Shanghai Pudong (PVG)",
+    "trip": "Asia Trip 2026",
+    "distance": 879,
+    "duration": "2h 15m"
+  },
+  {
+    "year": 2026,
+    "date": "2026-05-23",
+    "route": "Hong Kong (HKG) -> Seoul Incheon (ICN)",
+    "trip": "Asia Trip 2026",
+    "distance": 2880,
+    "duration": "3h 15m"
+  },
+  {
+    "year": 2026,
+    "date": "2026-05-19",
+    "route": "Abu Dhabi (AUH) -> Hong Kong (HKG)",
+    "trip": "Asia Trip 2026",
+    "distance": 6280,
+    "duration": "7h 50m"
+  },
+  {
+    "year": 2026,
+    "date": "2026-05-18",
+    "route": "Warsaw (WAW) -> Abu Dhabi (AUH)",
+    "trip": "Asia Trip 2026",
+    "distance": 4370,
+    "duration": "5h 35m"
+  },
   {
     "year": 2026,
     "date": "2026-03-24",
