@@ -1,11 +1,27 @@
 [
   {
     "year": 2026,
-    "date": "2026-07-13",
+    "date": "2026-11-21",
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "3h 45m"
+  },
+  {
+    "year": 2026,
+    "date": "2026-11-12",
+    "route": "Warsaw (WAW) -> Porto (OPO)",
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "4h 05m"
+  },
+  {
+    "year": 2026,
+    "date": "2026-07-17",
+    "route": "Porto (OPO) -> Warsaw (WAW)",
+    "trip": "Visit Home",
+    "distance": 2541,
+    "duration": "3h 40m"
   },
   {
     "year": 2026,
