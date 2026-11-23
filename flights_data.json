@@ -5,7 +5,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "3h 45m"
+    "duration": "3h 45m",
+    "priceEur": 66.31,
+    "priceOrig": "285.15 PLN"
   },
   {
     "year": 2026,
@@ -13,7 +15,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 05m"
+    "duration": "4h 05m",
+    "priceEur": 66.31,
+    "priceOrig": "285.15 PLN"
   },
   {
     "year": 2026,
@@ -21,7 +25,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "3h 40m"
+    "duration": "3h 40m",
+    "priceEur": 114.99,
+    "priceOrig": "114.99 EUR"
   },
   {
     "year": 2026,
@@ -29,7 +35,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 33.49,
+    "priceOrig": "144.00 PLN"
   },
   {
     "year": 2026,
@@ -53,7 +61,9 @@
     "route": "Shanghai Pudong (PVG) -> Xi'an (XIY)",
     "trip": "Asia Trip 2026",
     "distance": 1340,
-    "duration": "2h 10m"
+    "duration": "2h 10m",
+    "priceEur": 111.0,
+    "priceOrig": "111.00 EUR"
   },
   {
     "year": 2026,
@@ -61,7 +71,9 @@
     "route": "Seoul Incheon (ICN) -> Shanghai Pudong (PVG)",
     "trip": "Asia Trip 2026",
     "distance": 879,
-    "duration": "2h 15m"
+    "duration": "2h 15m",
+    "priceEur": 109.3,
+    "priceOrig": "470.00 PLN"
   },
   {
     "year": 2026,
@@ -69,7 +81,9 @@
     "route": "Hong Kong (HKG) -> Seoul Incheon (ICN)",
     "trip": "Asia Trip 2026",
     "distance": 2880,
-    "duration": "3h 15m"
+    "duration": "3h 15m",
+    "priceEur": 188.22,
+    "priceOrig": "207.04 USD"
   },
   {
     "year": 2026,
@@ -93,7 +107,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Grandma birthday",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 36.89,
+    "priceOrig": "36.89 EUR"
   },
   {
     "year": 2026,
@@ -101,7 +117,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Grandma birthday",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 75.58,
+    "priceOrig": "325.00 PLN"
   },
   {
     "year": 2026,
@@ -109,7 +127,9 @@
     "route": "Malaga (AGP) -> Warsaw (WAW)",
     "trip": "Trip to Malaga",
     "distance": 2632,
-    "duration": "4h 07m"
+    "duration": "4h 07m",
+    "priceEur": 87.39,
+    "priceOrig": "87.39 EUR"
   },
   {
     "year": 2026,
@@ -117,7 +137,9 @@
     "route": "Warsaw (WAW) -> Malaga (AGP)",
     "trip": "Trip to Malaga",
     "distance": 2632,
-    "duration": "4h 07m"
+    "duration": "4h 07m",
+    "priceEur": 62.86,
+    "priceOrig": "270.31 PLN"
   },
   {
     "year": 2026,
@@ -125,7 +147,9 @@
     "route": "Istanbul (IST) -> Warsaw (WAW)",
     "trip": "Trip to Istanbul",
     "distance": 1347,
-    "duration": "2h 29m"
+    "duration": "2h 29m",
+    "priceEur": 102.67,
+    "priceOrig": "441.50 PLN"
   },
   {
     "year": 2026,
@@ -133,7 +157,9 @@
     "route": "Warsaw (WAW) -> Istanbul (IST)",
     "trip": "Trip to Istanbul",
     "distance": 1347,
-    "duration": "2h 29m"
+    "duration": "2h 29m",
+    "priceEur": 102.67,
+    "priceOrig": "441.50 PLN"
   },
   {
     "year": 2025,
@@ -141,7 +167,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 128.39,
+    "priceOrig": "128.39 EUR"
   },
   {
     "year": 2025,
@@ -149,7 +177,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 127.13,
+    "priceOrig": "546.66 PLN"
   },
   {
     "year": 2025,
@@ -157,7 +187,9 @@
     "route": "Gdansk (GDN) -> Warsaw (WAW)",
     "trip": "Ela's Birthday",
     "distance": 297,
-    "duration": "1h 08m"
+    "duration": "1h 08m",
+    "priceEur": 37.41,
+    "priceOrig": "37.41 EUR"
   },
   {
     "year": 2025,
@@ -165,7 +197,9 @@
     "route": "Amsterdam (AMS) -> Gdansk (GDN)",
     "trip": "Ela's Birthday",
     "distance": 937,
-    "duration": "1h 57m"
+    "duration": "1h 57m",
+    "priceEur": 37.41,
+    "priceOrig": "37.41 EUR"
   },
   {
     "year": 2025,
@@ -173,7 +207,9 @@
     "route": "Stuttgart (STR) -> Amsterdam (AMS)",
     "trip": "Ela's Birthday",
     "distance": 511,
-    "duration": "1h 24m"
+    "duration": "1h 24m",
+    "priceEur": 37.41,
+    "priceOrig": "37.41 EUR"
   },
   {
     "year": 2025,
@@ -181,7 +217,9 @@
     "route": "Warsaw (WAW) -> Stuttgart (STR)",
     "trip": "Ela's Birthday",
     "distance": 916,
-    "duration": "1h 55m"
+    "duration": "1h 55m",
+    "priceEur": 115.6,
+    "priceOrig": "497.06 PLN"
   },
   {
     "year": 2025,
@@ -205,7 +243,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 111.63,
+    "priceOrig": "480.00 PLN"
   },
   {
     "year": 2025,
@@ -213,7 +253,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 111.63,
+    "priceOrig": "480.00 PLN"
   },
   {
     "year": 2025,
@@ -221,7 +263,9 @@
     "route": "New York (JFK) -> Warsaw (WAW)",
     "trip": "Trip to New York",
     "distance": 6848,
-    "duration": "9h 32m"
+    "duration": "9h 32m",
+    "priceEur": 285.35,
+    "priceOrig": "1227.01 PLN"
   },
   {
     "year": 2025,
@@ -229,7 +273,9 @@
     "route": "Warsaw (WAW) -> New York (JFK)",
     "trip": "Trip to New York",
     "distance": 6848,
-    "duration": "9h 32m"
+    "duration": "9h 32m",
+    "priceEur": 285.35,
+    "priceOrig": "1227.01 PLN"
   },
   {
     "year": 2025,
@@ -253,7 +299,9 @@
     "route": "Madrid (MAD) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2270,
-    "duration": "3h 40m"
+    "duration": "3h 40m",
+    "priceEur": 49.99,
+    "priceOrig": "49.99 EUR"
   },
   {
     "year": 2025,
@@ -261,7 +309,9 @@
     "route": "Porto (OPO) -> Madrid (MAD)",
     "trip": "Visit Home",
     "distance": 438,
-    "duration": "1h 19m"
+    "duration": "1h 19m",
+    "priceEur": 32.59,
+    "priceOrig": "32.59 EUR"
   },
   {
     "year": 2025,
@@ -269,7 +319,9 @@
     "route": "Bergamo (BGY) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 1559,
-    "duration": "2h 45m"
+    "duration": "2h 45m",
+    "priceEur": 40.99,
+    "priceOrig": "40.99 EUR"
   },
   {
     "year": 2025,
@@ -277,7 +329,9 @@
     "route": "Warsaw (WAW) -> Bergamo (BGY)",
     "trip": "Visit Home",
     "distance": 1092,
-    "duration": "2h 09m"
+    "duration": "2h 09m",
+    "priceEur": 35.23,
+    "priceOrig": "151.50 PLN"
   },
   {
     "year": 2024,
@@ -285,7 +339,9 @@
     "route": "Qatar (DOH) -> Warsaw (WAW)",
     "trip": "Trip to Japan",
     "distance": 3946,
-    "duration": "5h 49m"
+    "duration": "5h 49m",
+    "priceEur": 281.73,
+    "priceOrig": "1211.43 PLN"
   },
   {
     "year": 2024,
@@ -293,7 +349,9 @@
     "route": "Tokyo (NRT) -> Qatar (DOH)",
     "trip": "Trip to Japan",
     "distance": 8298,
-    "duration": "11h 23m"
+    "duration": "11h 23m",
+    "priceEur": 281.73,
+    "priceOrig": "1211.43 PLN"
   },
   {
     "year": 2024,
@@ -301,7 +359,9 @@
     "route": "Qatar (DOH) -> Tokyo (NRT)",
     "trip": "Trip to Japan",
     "distance": 8298,
-    "duration": "11h 23m"
+    "duration": "11h 23m",
+    "priceEur": 281.73,
+    "priceOrig": "1211.43 PLN"
   },
   {
     "year": 2024,
@@ -309,7 +369,9 @@
     "route": "Warsaw (WAW) -> Qatar (DOH)",
     "trip": "Trip to Japan",
     "distance": 3946,
-    "duration": "5h 49m"
+    "duration": "5h 49m",
+    "priceEur": 281.73,
+    "priceOrig": "1211.43 PLN"
   },
   {
     "year": 2024,
@@ -317,7 +379,9 @@
     "route": "Zakynthos (ZTH) -> Warsaw (WAW)",
     "trip": "Trip to Zakynthos",
     "distance": 1603,
-    "duration": "2h 48m"
+    "duration": "2h 48m",
+    "priceEur": 56.98,
+    "priceOrig": "245.00 PLN"
   },
   {
     "year": 2024,
@@ -325,7 +389,9 @@
     "route": "Warsaw (WAW) -> Zakynthos (ZTH)",
     "trip": "Trip to Zakynthos",
     "distance": 1603,
-    "duration": "2h 48m"
+    "duration": "2h 48m",
+    "priceEur": 56.98,
+    "priceOrig": "245.00 PLN"
   },
   {
     "year": 2024,
@@ -333,7 +399,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 67.44,
+    "priceOrig": "290.00 PLN"
   },
   {
     "year": 2024,
@@ -341,7 +409,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 67.44,
+    "priceOrig": "290.00 PLN"
   },
   {
     "year": 2024,
@@ -349,7 +419,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 77.34,
+    "priceOrig": "77.34 EUR"
   },
   {
     "year": 2023,
@@ -357,7 +429,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 65.28,
+    "priceOrig": "280.70 PLN"
   },
   {
     "year": 2023,
@@ -365,7 +439,9 @@
     "route": "Larnaca (LCA) -> Warsaw (WAW)",
     "trip": "Trip to Cyprus",
     "distance": 2169,
-    "duration": "3h 32m"
+    "duration": "3h 32m",
+    "priceEur": 60.58,
+    "priceOrig": "260.50 PLN"
   },
   {
     "year": 2023,
@@ -373,7 +449,9 @@
     "route": "Warsaw (WAW) -> Larnaca (LCA)",
     "trip": "Trip to Cyprus",
     "distance": 2169,
-    "duration": "3h 32m"
+    "duration": "3h 32m",
+    "priceEur": 60.58,
+    "priceOrig": "260.50 PLN"
   },
   {
     "year": 2023,
@@ -381,7 +459,9 @@
     "route": "Reykjavik (KEF) -> Warsaw (WAW)",
     "trip": "Trip to Iceland",
     "distance": 2804,
-    "duration": "4h 21m"
+    "duration": "4h 21m",
+    "priceEur": 69.3,
+    "priceOrig": "298.00 PLN"
   },
   {
     "year": 2023,
@@ -389,7 +469,9 @@
     "route": "Warsaw (WAW) -> Reykjavik (KEF)",
     "trip": "Trip to Iceland",
     "distance": 2804,
-    "duration": "4h 21m"
+    "duration": "4h 21m",
+    "priceEur": 69.3,
+    "priceOrig": "298.00 PLN"
   },
   {
     "year": 2023,
@@ -397,7 +479,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Wedding and Azores",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 129.81,
+    "priceOrig": "129.81 EUR"
   },
   {
     "year": 2023,
@@ -405,7 +489,9 @@
     "route": "Terceira (TER) -> Porto (OPO)",
     "trip": "Wedding and Azores",
     "distance": 1589,
-    "duration": "2h 47m"
+    "duration": "2h 47m",
+    "priceEur": 83.08,
+    "priceOrig": "83.08 EUR"
   },
   {
     "year": 2023,
@@ -421,7 +507,9 @@
     "route": "Porto (OPO) -> Ponta Delgada (PDL)",
     "trip": "Wedding and Azores",
     "distance": 1509,
-    "duration": "2h 41m"
+    "duration": "2h 41m",
+    "priceEur": 46.17,
+    "priceOrig": "46.17 EUR"
   },
   {
     "year": 2023,
@@ -437,7 +525,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 136.74,
+    "priceOrig": "588.00 PLN"
   },
   {
     "year": 2023,
@@ -445,7 +535,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 136.74,
+    "priceOrig": "588.00 PLN"
   },
   {
     "year": 2023,
@@ -453,7 +545,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 61.33,
+    "priceOrig": "263.70 PLN"
   },
   {
     "year": 2023,
@@ -461,7 +555,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 61.33,
+    "priceOrig": "263.70 PLN"
   },
   {
     "year": 2022,
@@ -469,7 +565,9 @@
     "route": "Naples (NAP) -> Warsaw (WAW)",
     "trip": "Trip to Naples",
     "distance": 1353,
-    "duration": "2h 29m"
+    "duration": "2h 29m",
+    "priceEur": 71.86,
+    "priceOrig": "309.00 PLN"
   },
   {
     "year": 2022,
@@ -477,7 +575,9 @@
     "route": "Warsaw (WAW) -> Naples (NAP)",
     "trip": "Trip to Naples",
     "distance": 1353,
-    "duration": "2h 29m"
+    "duration": "2h 29m",
+    "priceEur": 71.86,
+    "priceOrig": "309.00 PLN"
   },
   {
     "year": 2022,
@@ -485,7 +585,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 132.99,
+    "priceOrig": "132.99 EUR"
   },
   {
     "year": 2022,
@@ -493,7 +595,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 77.71,
+    "priceOrig": "334.14 PLN"
   },
   {
     "year": 2022,
@@ -501,7 +605,9 @@
     "route": "Vienna (VIE) -> Warsaw (WAW)",
     "trip": "Trip to Budapest and Vienna",
     "distance": 549,
-    "duration": "1h 27m"
+    "duration": "1h 27m",
+    "priceEur": 63.82,
+    "priceOrig": "274.42 PLN"
   },
   {
     "year": 2022,
@@ -509,7 +615,9 @@
     "route": "Warsaw (WAW) -> Budapest (BUD)",
     "trip": "Trip to Budapest and Vienna",
     "distance": 540,
-    "duration": "1h 27m"
+    "duration": "1h 27m",
+    "priceEur": 25.99,
+    "priceOrig": "111.77 PLN"
   },
   {
     "year": 2022,
@@ -517,7 +625,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Madeira and home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 44.3,
+    "priceOrig": "190.51 PLN"
   },
   {
     "year": 2022,
@@ -525,7 +635,9 @@
     "route": "Madeira (FNC) -> Porto (OPO)",
     "trip": "Visit Madeira and home",
     "distance": 1191,
-    "duration": "2h 17m"
+    "duration": "2h 17m",
+    "priceEur": 30.86,
+    "priceOrig": "30.86 EUR"
   },
   {
     "year": 2022,
@@ -533,7 +645,9 @@
     "route": "Porto (OPO) -> Madeira (FNC)",
     "trip": "Visit Madeira and home",
     "distance": 1191,
-    "duration": "2h 17m"
+    "duration": "2h 17m",
+    "priceEur": 30.86,
+    "priceOrig": "30.86 EUR"
   },
   {
     "year": 2022,
@@ -541,7 +655,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Madeira and home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 44.3,
+    "priceOrig": "190.51 PLN"
   },
   {
     "year": 2021,
@@ -549,7 +665,9 @@
     "route": "Lisbon (LIS) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2749,
-    "duration": "4h 16m"
+    "duration": "4h 16m",
+    "priceEur": 28.16,
+    "priceOrig": "28.16 EUR"
   },
   {
     "year": 2021,
@@ -557,7 +675,9 @@
     "route": "Porto (OPO) -> Lisbon (LIS)",
     "trip": "Visit Home",
     "distance": 277,
-    "duration": "1h 06m"
+    "duration": "1h 06m",
+    "priceEur": 28.16,
+    "priceOrig": "28.16 EUR"
   },
   {
     "year": 2021,
@@ -565,7 +685,9 @@
     "route": "Lisbon (LIS) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 277,
-    "duration": "1h 06m"
+    "duration": "1h 06m",
+    "priceEur": 28.16,
+    "priceOrig": "28.16 EUR"
   },
   {
     "year": 2021,
@@ -573,7 +695,9 @@
     "route": "Warsaw (WAW) -> Lisbon (LIS)",
     "trip": "Visit Home",
     "distance": 2749,
-    "duration": "4h 16m"
+    "duration": "4h 16m",
+    "priceEur": 28.16,
+    "priceOrig": "28.16 EUR"
   },
   {
     "year": 2021,
@@ -581,7 +705,9 @@
     "route": "Paris (CDG) -> Warsaw (WAW)",
     "trip": "Trip to Paris",
     "distance": 1342,
-    "duration": "2h 28m"
+    "duration": "2h 28m",
+    "priceEur": 47.67,
+    "priceOrig": "205.00 PLN"
   },
   {
     "year": 2021,
@@ -589,7 +715,9 @@
     "route": "Warsaw (WAW) -> Paris (CDG)",
     "trip": "Trip to Paris",
     "distance": 1342,
-    "duration": "2h 28m"
+    "duration": "2h 28m",
+    "priceEur": 47.67,
+    "priceOrig": "205.00 PLN"
   },
   {
     "year": 2021,
@@ -597,7 +725,9 @@
     "route": "Cagliari (CAG) -> Warsaw (WAW)",
     "trip": "Trip to Sardinia",
     "distance": 1703,
-    "duration": "2h 56m"
+    "duration": "2h 56m",
+    "priceEur": 44.68,
+    "priceOrig": "192.13 PLN"
   },
   {
     "year": 2021,
@@ -605,7 +735,9 @@
     "route": "Warsaw (WAW) -> Cagliari (CAG)",
     "trip": "Trip to Sardinia",
     "distance": 1703,
-    "duration": "2h 56m"
+    "duration": "2h 56m",
+    "priceEur": 44.68,
+    "priceOrig": "192.13 PLN"
   },
   {
     "year": 2021,
@@ -613,7 +745,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 74.88,
+    "priceOrig": "322.00 PLN"
   },
   {
     "year": 2021,
@@ -621,7 +755,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 74.88,
+    "priceOrig": "322.00 PLN"
   },
   {
     "year": 2021,
@@ -629,7 +765,9 @@
     "route": "Tenerife (TFS) -> Warsaw (WAW)",
     "trip": "Trip to Tenerife",
     "distance": 4094,
-    "duration": "6h 00m"
+    "duration": "6h 00m",
+    "priceEur": 115.5,
+    "priceOrig": "496.67 PLN"
   },
   {
     "year": 2021,
@@ -637,7 +775,9 @@
     "route": "Warsaw (WAW) -> Tenerife (TFS)",
     "trip": "Trip to Tenerife",
     "distance": 4094,
-    "duration": "6h 00m"
+    "duration": "6h 00m",
+    "priceEur": 115.5,
+    "priceOrig": "496.67 PLN"
   },
   {
     "year": 2021,
@@ -645,7 +785,9 @@
     "route": "Porto (OPO) -> Krakow (KRK)",
     "trip": "NYE at home",
     "distance": 2401,
-    "duration": "3h 50m"
+    "duration": "3h 50m",
+    "priceEur": 40.64,
+    "priceOrig": "40.64 EUR"
   },
   {
     "year": 2020,
@@ -653,7 +795,9 @@
     "route": "Madrid (MAD) -> Porto (OPO)",
     "trip": "NYE at home",
     "distance": 438,
-    "duration": "1h 19m"
+    "duration": "1h 19m",
+    "priceEur": 34.99,
+    "priceOrig": "34.99 EUR"
   },
   {
     "year": 2020,
@@ -661,7 +805,9 @@
     "route": "Warsaw (WAW) -> Madrid (MAD)",
     "trip": "NYE at home",
     "distance": 2270,
-    "duration": "3h 40m"
+    "duration": "3h 40m",
+    "priceEur": 43.57,
+    "priceOrig": "187.33 PLN"
   },
   {
     "year": 2020,
@@ -669,7 +815,9 @@
     "route": "Bergamo (BGY) -> Warsaw (WAW)",
     "trip": "Trip to Italy",
     "distance": 1092,
-    "duration": "2h 09m"
+    "duration": "2h 09m",
+    "priceEur": 30.47,
+    "priceOrig": "131.00 PLN"
   },
   {
     "year": 2020,
@@ -677,7 +825,9 @@
     "route": "Warsaw (WAW) -> Bergamo (BGY)",
     "trip": "Trip to Italy",
     "distance": 1092,
-    "duration": "2h 09m"
+    "duration": "2h 09m",
+    "priceEur": 30.47,
+    "priceOrig": "131.00 PLN"
   },
   {
     "year": 2020,
@@ -685,7 +835,9 @@
     "route": "Budapest (BUD) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 540,
-    "duration": "1h 27m"
+    "duration": "1h 27m",
+    "priceEur": 38.97,
+    "priceOrig": "13640.00 HUF"
   },
   {
     "year": 2020,
@@ -693,7 +845,9 @@
     "route": "Porto (OPO) -> Budapest (BUD)",
     "trip": "Visit Home",
     "distance": 2311,
-    "duration": "3h 43m"
+    "duration": "3h 43m",
+    "priceEur": 45.49,
+    "priceOrig": "45.49 EUR"
   },
   {
     "year": 2020,
@@ -701,7 +855,9 @@
     "route": "Budapest (BUD) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2311,
-    "duration": "3h 43m"
+    "duration": "3h 43m",
+    "priceEur": 47.11,
+    "priceOrig": "16490.00 HUF"
   },
   {
     "year": 2020,
@@ -709,7 +865,9 @@
     "route": "Warsaw (WAW) -> Budapest (BUD)",
     "trip": "Visit Home",
     "distance": 540,
-    "duration": "1h 27m"
+    "duration": "1h 27m",
+    "priceEur": 34.88,
+    "priceOrig": "150.00 PLN"
   },
   {
     "year": 2020,
@@ -717,7 +875,9 @@
     "route": "Qatar (DOH) -> Warsaw (WAW)",
     "trip": "Trip to Thailand and Singapore",
     "distance": 3946,
-    "duration": "5h 49m"
+    "duration": "5h 49m",
+    "priceEur": 107.8,
+    "priceOrig": "463.56 PLN"
   },
   {
     "year": 2020,
@@ -725,7 +885,9 @@
     "route": "Bangkok (BKK) -> Qatar (DOH)",
     "trip": "Trip to Thailand and Singapore",
     "distance": 5279,
-    "duration": "7h 31m"
+    "duration": "7h 31m",
+    "priceEur": 107.8,
+    "priceOrig": "463.56 PLN"
   },
   {
     "year": 2020,
@@ -733,7 +895,9 @@
     "route": "Singapore (SIN) -> Bangkok (BKK)",
     "trip": "Trip to Thailand and Singapore",
     "distance": 1417,
-    "duration": "2h 34m"
+    "duration": "2h 34m",
+    "priceEur": 89.61,
+    "priceOrig": "138.00 SGD"
   },
   {
     "year": 2020,
@@ -741,7 +905,9 @@
     "route": "Krabi (KBV) -> Singapore (SIN)",
     "trip": "Trip to Thailand and Singapore",
     "distance": 933,
-    "duration": "1h 57m"
+    "duration": "1h 57m",
+    "priceEur": 57.39,
+    "priceOrig": "1980.00 THB"
   },
   {
     "year": 2020,
@@ -749,7 +915,9 @@
     "route": "Bangkok (BKK) -> Krabi (KBV)",
     "trip": "Trip to Thailand and Singapore",
     "distance": 650,
-    "duration": "1h 35m"
+    "duration": "1h 35m",
+    "priceEur": 25.33,
+    "priceOrig": "874.00 THB"
   },
   {
     "year": 2020,
@@ -757,7 +925,9 @@
     "route": "Qatar (DOH) -> Bangkok (BKK)",
     "trip": "Trip to Thailand and Singapore",
     "distance": 5279,
-    "duration": "7h 31m"
+    "duration": "7h 31m",
+    "priceEur": 107.8,
+    "priceOrig": "463.56 PLN"
   },
   {
     "year": 2020,
@@ -765,7 +935,9 @@
     "route": "Warsaw (WAW) -> Qatar (DOH)",
     "trip": "Trip to Thailand and Singapore",
     "distance": 3946,
-    "duration": "5h 49m"
+    "duration": "5h 49m",
+    "priceEur": 107.8,
+    "priceOrig": "463.56 PLN"
   },
   {
     "year": 2020,
@@ -773,7 +945,9 @@
     "route": "Lisbon (LIS) -> Warsaw (WAW)",
     "trip": "NYE at home",
     "distance": 2749,
-    "duration": "4h 16m"
+    "duration": "4h 16m",
+    "priceEur": 75.24,
+    "priceOrig": "75.24 EUR"
   },
   {
     "year": 2020,
@@ -781,7 +955,9 @@
     "route": "Porto (OPO) -> Lisbon (LIS)",
     "trip": "NYE at home",
     "distance": 277,
-    "duration": "1h 06m"
+    "duration": "1h 06m",
+    "priceEur": 75.24,
+    "priceOrig": "75.24 EUR"
   },
   {
     "year": 2019,
@@ -789,7 +965,9 @@
     "route": "Berlin (SXF) -> Porto (OPO)",
     "trip": "NYE at home",
     "distance": 2081,
-    "duration": "3h 25m"
+    "duration": "3h 25m",
+    "priceEur": 94.59,
+    "priceOrig": "94.59 EUR"
   },
   {
     "year": 2019,
@@ -813,7 +991,9 @@
     "route": "Stuttgart (STR) -> Krakow (KRK)",
     "trip": "Oktoberfest Stuttgart",
     "distance": 779,
-    "duration": "1h 45m"
+    "duration": "1h 45m",
+    "priceEur": 36.75,
+    "priceOrig": "36.75 EUR"
   },
   {
     "year": 2019,
@@ -821,7 +1001,9 @@
     "route": "Krakow (KRK) -> Stuttgart (STR)",
     "trip": "Oktoberfest Stuttgart",
     "distance": 779,
-    "duration": "1h 45m"
+    "duration": "1h 45m",
+    "priceEur": 36.75,
+    "priceOrig": "36.75 EUR"
   },
   {
     "year": 2019,
@@ -829,7 +1011,9 @@
     "route": "Faro (FAO) -> Wroclaw (WRO)",
     "trip": "Vacations in Algarve",
     "distance": 2508,
-    "duration": "3h 58m"
+    "duration": "3h 58m",
+    "priceEur": 55.97,
+    "priceOrig": "55.97 EUR"
   },
   {
     "year": 2019,
@@ -837,7 +1021,9 @@
     "route": "Wroclaw (WRO) -> Faro (FAO)",
     "trip": "Vacations in Algarve",
     "distance": 2508,
-    "duration": "3h 58m"
+    "duration": "3h 58m",
+    "priceEur": 75.3,
+    "priceOrig": "323.78 PLN"
   },
   {
     "year": 2019,
@@ -845,7 +1031,9 @@
     "route": "Athens (ATH) -> Poznań (POZ)",
     "trip": "Visit to Athens",
     "distance": 1702,
-    "duration": "2h 56m"
+    "duration": "2h 56m",
+    "priceEur": 30.4,
+    "priceOrig": "130.71 PLN"
   },
   {
     "year": 2019,
@@ -853,7 +1041,9 @@
     "route": "Poznań (POZ) -> Athens (ATH)",
     "trip": "Visit to Athens",
     "distance": 1702,
-    "duration": "2h 56m"
+    "duration": "2h 56m",
+    "priceEur": 30.4,
+    "priceOrig": "130.71 PLN"
   },
   {
     "year": 2019,
@@ -861,7 +1051,9 @@
     "route": "Porto (OPO) -> Warsaw (WAW)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 42.79,
+    "priceOrig": "184.00 PLN"
   },
   {
     "year": 2019,
@@ -869,7 +1061,9 @@
     "route": "Warsaw (WAW) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2541,
-    "duration": "4h 00m"
+    "duration": "4h 00m",
+    "priceEur": 42.79,
+    "priceOrig": "184.00 PLN"
   },
   {
     "year": 2019,
@@ -877,7 +1071,9 @@
     "route": "Malta (MLA) -> Warsaw (WAW)",
     "trip": "Moving to Warsaw",
     "distance": 1884,
-    "duration": "3h 10m"
+    "duration": "3h 10m",
+    "priceEur": 111.59,
+    "priceOrig": "111.59 EUR"
   },
   {
     "year": 2019,
@@ -885,7 +1081,9 @@
     "route": "Katowice (KTW) -> Malta (MLA)",
     "trip": "Christmas at home and NYE in Warsaw",
     "distance": 1667,
-    "duration": "2h 53m"
+    "duration": "2h 53m",
+    "priceEur": 105.81,
+    "priceOrig": "455.00 PLN"
   },
   {
     "year": 2018,
@@ -893,7 +1091,9 @@
     "route": "Porto (OPO) -> Berlin (SXF)",
     "trip": "Christmas at home and NYE in Warsaw",
     "distance": 2081,
-    "duration": "3h 25m"
+    "duration": "3h 25m",
+    "priceEur": 42.67,
+    "priceOrig": "42.67 EUR"
   },
   {
     "year": 2018,
@@ -901,7 +1101,9 @@
     "route": "Malta (MLA) -> Porto (OPO)",
     "trip": "Christmas at home and NYE in Warsaw",
     "distance": 2094,
-    "duration": "3h 26m"
+    "duration": "3h 26m",
+    "priceEur": 97.75,
+    "priceOrig": "97.75 EUR"
   },
   {
     "year": 2018,
@@ -909,7 +1111,9 @@
     "route": "Brussels (CRL) -> Malta (MLA)",
     "trip": "Marysia’s birthday",
     "distance": 1801,
-    "duration": "3h 04m"
+    "duration": "3h 04m",
+    "priceEur": 26.49,
+    "priceOrig": "26.49 EUR"
   },
   {
     "year": 2018,
@@ -917,7 +1121,9 @@
     "route": "Malta (MLA) -> Brussels (CRL)",
     "trip": "Marysia’s birthday",
     "distance": 1801,
-    "duration": "3h 04m"
+    "duration": "3h 04m",
+    "priceEur": 26.49,
+    "priceOrig": "26.49 EUR"
   },
   {
     "year": 2018,
@@ -925,7 +1131,9 @@
     "route": "Poznań (POZ) -> Malta (MLA)",
     "trip": "Visit Poznan",
     "distance": 1851,
-    "duration": "3h 07m"
+    "duration": "3h 07m",
+    "priceEur": 29.77,
+    "priceOrig": "29.77 EUR"
   },
   {
     "year": 2018,
@@ -933,7 +1141,9 @@
     "route": "Malta (MLA) -> Poznań (POZ)",
     "trip": "Visit Poznan",
     "distance": 1851,
-    "duration": "3h 07m"
+    "duration": "3h 07m",
+    "priceEur": 29.77,
+    "priceOrig": "29.77 EUR"
   },
   {
     "year": 2018,
@@ -941,7 +1151,9 @@
     "route": "Nice (NCE) -> Malta (MLA)",
     "trip": "Vacations in France",
     "distance": 1066,
-    "duration": "2h 07m"
+    "duration": "2h 07m",
+    "priceEur": 66.81,
+    "priceOrig": "66.81 EUR"
   },
   {
     "year": 2018,
@@ -949,7 +1161,9 @@
     "route": "Malta (MLA) -> Nice (NCE)",
     "trip": "Vacations in France",
     "distance": 1066,
-    "duration": "2h 07m"
+    "duration": "2h 07m",
+    "priceEur": 66.81,
+    "priceOrig": "66.81 EUR"
   },
   {
     "year": 2018,
@@ -957,7 +1171,9 @@
     "route": "Porto (OPO) -> Malta (MLA)",
     "trip": "Visit Home",
     "distance": 2094,
-    "duration": "3h 26m"
+    "duration": "3h 26m",
+    "priceEur": 98.93,
+    "priceOrig": "98.93 EUR"
   },
   {
     "year": 2018,
@@ -965,7 +1181,9 @@
     "route": "Malta (MLA) -> Porto (OPO)",
     "trip": "Visit Home",
     "distance": 2094,
-    "duration": "3h 26m"
+    "duration": "3h 26m",
+    "priceEur": 98.93,
+    "priceOrig": "98.93 EUR"
   },
   {
     "year": 2018,
@@ -981,7 +1199,9 @@
     "route": "Malta (MLA) -> Poznań (POZ)",
     "trip": "Paulina’s wedding",
     "distance": 1851,
-    "duration": "3h 07m"
+    "duration": "3h 07m",
+    "priceEur": 29.36,
+    "priceOrig": "29.36 EUR"
   },
   {
     "year": 2018,
@@ -989,7 +1209,9 @@
     "route": "Nuremberg (NUE) -> Malta (MLA)",
     "trip": "Matilda’s birthday",
     "distance": 1542,
-    "duration": "2h 44m"
+    "duration": "2h 44m",
+    "priceEur": 19.99,
+    "priceOrig": "19.99 EUR"
   },
   {
     "year": 2018,
@@ -1005,7 +1227,9 @@
     "route": "Barcelona (BCN) -> Malta (MLA)",
     "trip": "Christmas at home",
     "distance": 1234,
-    "duration": "2h 20m"
+    "duration": "2h 20m",
+    "priceEur": 73.94,
+    "priceOrig": "73.94 EUR"
   },
   {
     "year": 2017,
@@ -1013,7 +1237,9 @@
     "route": "Porto (OPO) -> Barcelona (BCN)",
     "trip": "Christmas at home",
     "distance": 899,
-    "duration": "1h 54m"
+    "duration": "1h 54m",
+    "priceEur": 73.94,
+    "priceOrig": "73.94 EUR"
   },
   {
     "year": 2017,
@@ -1021,7 +1247,9 @@
     "route": "Madrid (MAD) -> Porto (OPO)",
     "trip": "Christmas at home",
     "distance": 438,
-    "duration": "1h 19m"
+    "duration": "1h 19m",
+    "priceEur": 39.46,
+    "priceOrig": "39.46 EUR"
   },
   {
     "year": 2017,
@@ -1029,7 +1257,9 @@
     "route": "Malta (MLA) -> Madrid (MAD)",
     "trip": "Christmas at home",
     "distance": 1656,
-    "duration": "2h 52m"
+    "duration": "2h 52m",
+    "priceEur": 73.43,
+    "priceOrig": "73.43 EUR"
   },
   {
     "year": 2017,
@@ -1037,7 +1267,9 @@
     "route": "Rome (CIA) -> Malta (MLA)",
     "trip": "Marysia’s birthday",
     "distance": 680,
-    "duration": "1h 37m"
+    "duration": "1h 37m",
+    "priceEur": 27.02,
+    "priceOrig": "27.02 EUR"
   },
   {
     "year": 2017,
@@ -1045,7 +1277,9 @@
     "route": "Malta (MLA) -> Rome (CIA)",
     "trip": "Marysia’s birthday",
     "distance": 680,
-    "duration": "1h 37m"
+    "duration": "1h 37m",
+    "priceEur": 27.02,
+    "priceOrig": "27.02 EUR"
   },
   {
     "year": 2017,
@@ -1053,7 +1287,9 @@
     "route": "Poznań (POZ) -> Malta (MLA)",
     "trip": "Moving to Malta",
     "distance": 1851,
-    "duration": "3h 07m"
+    "duration": "3h 07m",
+    "priceEur": 72.11,
+    "priceOrig": "310.08 PLN"
   },
   {
     "year": 2017,
@@ -1061,7 +1297,9 @@
     "route": "Porto (OPO) -> Berlin (SXF)",
     "trip": "Leaving Portugal",
     "distance": 2081,
-    "duration": "3h 25m"
+    "duration": "3h 25m",
+    "priceEur": 123.41,
+    "priceOrig": "123.41 EUR"
   },
   {
     "year": 2017,
@@ -1069,7 +1307,9 @@
     "route": "Berlin (SXF) -> Porto (OPO)",
     "trip": "Marysia’s parents’ birthday",
     "distance": 2081,
-    "duration": "3h 25m"
+    "duration": "3h 25m",
+    "priceEur": 70.37,
+    "priceOrig": "70.37 EUR"
   },
   {
     "year": 2017,
@@ -1077,7 +1317,9 @@
     "route": "Porto (OPO) -> Berlin (SXF)",
     "trip": "Marysia’s parents’ birthday",
     "distance": 2081,
-    "duration": "3h 25m"
+    "duration": "3h 25m",
+    "priceEur": 70.37,
+    "priceOrig": "70.37 EUR"
   },
   {
     "year": 2017,
@@ -1085,7 +1327,9 @@
     "route": "Barcelona (BCN) -> Lisbon (LIS)",
     "trip": "Visit to Barcelona",
     "distance": 994,
-    "duration": "2h 01m"
+    "duration": "2h 01m",
+    "priceEur": 48.91,
+    "priceOrig": "48.91 EUR"
   },
   {
     "year": 2017,
@@ -1093,7 +1337,9 @@
     "route": "Lisbon (LIS) -> Barcelona (BCN)",
     "trip": "Visit to Barcelona",
     "distance": 994,
-    "duration": "2h 01m"
+    "duration": "2h 01m",
+    "priceEur": 48.91,
+    "priceOrig": "48.91 EUR"
   },
   {
     "year": 2017,
@@ -1101,7 +1347,9 @@
     "route": "Warsaw (WMI) -> Lisbon (LIS)",
     "trip": "NYE in Warsaw",
     "distance": 2741,
-    "duration": "4h 16m"
+    "duration": "4h 16m",
+    "priceEur": 111.25,
+    "priceOrig": "478.38 PLN"
   },
   {
     "year": 2016,
@@ -1109,7 +1357,9 @@
     "route": "Lisbon (LIS) -> Berlin (TXL)",
     "trip": "NYE in Warsaw",
     "distance": 2303,
-    "duration": "3h 42m"
+    "duration": "3h 42m",
+    "priceEur": 111.91,
+    "priceOrig": "111.91 EUR"
   },
   {
     "year": 2016,
