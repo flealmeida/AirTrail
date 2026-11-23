@@ -45,7 +45,9 @@
     "route": "Abu Dhabi (AUH) -> Warsaw (WAW)",
     "trip": "Asia Trip 2026",
     "distance": 4370,
-    "duration": "6h 00m"
+    "duration": "6h 00m",
+    "priceEur": 160.94,
+    "priceOrig": "692.07 PLN"
   },
   {
     "year": 2026,
@@ -53,7 +55,9 @@
     "route": "Beijing Daxing (PKX) -> Abu Dhabi (AUH)",
     "trip": "Asia Trip 2026",
     "distance": 5960,
-    "duration": "8h 50m"
+    "duration": "8h 50m",
+    "priceEur": 160.95,
+    "priceOrig": "692.07 PLN"
   },
   {
     "year": 2026,
@@ -62,7 +66,7 @@
     "trip": "Asia Trip 2026",
     "distance": 1340,
     "duration": "2h 10m",
-    "priceEur": 111.0,
+    "priceEur": 111,
     "priceOrig": "111.00 EUR"
   },
   {
@@ -91,7 +95,9 @@
     "route": "Abu Dhabi (AUH) -> Hong Kong (HKG)",
     "trip": "Asia Trip 2026",
     "distance": 6280,
-    "duration": "7h 50m"
+    "duration": "7h 50m",
+    "priceEur": 160.95,
+    "priceOrig": "692.08 PLN"
   },
   {
     "year": 2026,
@@ -99,7 +105,9 @@
     "route": "Warsaw (WAW) -> Abu Dhabi (AUH)",
     "trip": "Asia Trip 2026",
     "distance": 4370,
-    "duration": "5h 35m"
+    "duration": "5h 35m",
+    "priceEur": 160.95,
+    "priceOrig": "692.08 PLN"
   },
   {
     "year": 2026,
