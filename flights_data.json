@@ -235,7 +235,9 @@
     "route": "Antalya (AYT) -> Warsaw (WAW)",
     "trip": "Trip to Antalya",
     "distance": 1864,
-    "duration": "3h 08m"
+    "duration": "3h 08m",
+    "priceEur": 109.86,
+    "priceOrig": "472.40 PLN"
   },
   {
     "year": 2025,
@@ -243,7 +245,9 @@
     "route": "Warsaw (WAW) -> Antalya (AYT)",
     "trip": "Trip to Antalya",
     "distance": 1864,
-    "duration": "3h 08m"
+    "duration": "3h 08m",
+    "priceEur": 109.86,
+    "priceOrig": "472.41 PLN"
   },
   {
     "year": 2025,
@@ -291,7 +295,9 @@
     "route": "Tel Aviv (TLV) -> Warsaw (WAW)",
     "trip": "Business trip to Israel",
     "distance": 2508,
-    "duration": "3h 58m"
+    "duration": "3h 58m",
+    "priceEur": 0,
+    "priceOrig": "0.00 EUR"
   },
   {
     "year": 2025,
@@ -299,7 +305,9 @@
     "route": "Warsaw (WAW) -> Tel Aviv (TLV)",
     "trip": "Business trip to Israel",
     "distance": 2508,
-    "duration": "3h 58m"
+    "duration": "3h 58m",
+    "priceEur": 0,
+    "priceOrig": "0.00 EUR"
   },
   {
     "year": 2025,
@@ -507,7 +515,9 @@
     "route": "Ponta Delgada (PDL) -> Terceira (TER)",
     "trip": "Wedding and Azores",
     "distance": 166,
-    "duration": "0h 58m"
+    "duration": "0h 58m",
+    "priceEur": 83.86,
+    "priceOrig": "83.86 EUR"
   },
   {
     "year": 2023,
@@ -525,7 +535,9 @@
     "route": "Berlin (BER) -> Porto (OPO)",
     "trip": "Wedding and Azores",
     "distance": 2078,
-    "duration": "3h 25m"
+    "duration": "3h 25m",
+    "priceEur": 136.74,
+    "priceOrig": "588.00 PLN"
   },
   {
     "year": 2023,
@@ -983,7 +995,9 @@
     "route": "London (STN) -> Warsaw (WMI)",
     "trip": "Marysia’s birthday",
     "distance": 1389,
-    "duration": "2h 32m"
+    "duration": "2h 32m",
+    "priceEur": 38.83,
+    "priceOrig": "167.00 PLN"
   },
   {
     "year": 2019,
@@ -991,7 +1005,9 @@
     "route": "Warsaw (WMI) -> London (STN)",
     "trip": "Marysia’s birthday",
     "distance": 1389,
-    "duration": "2h 32m"
+    "duration": "2h 32m",
+    "priceEur": 38.84,
+    "priceOrig": "167.00 PLN"
   },
   {
     "year": 2019,
@@ -1199,7 +1215,9 @@
     "route": "Wroclaw (WRO) -> Malta (MLA)",
     "trip": "Paulina’s wedding",
     "distance": 1706,
-    "duration": "2h 56m"
+    "duration": "2h 56m",
+    "priceEur": 97.48,
+    "priceOrig": "97.48 EUR"
   },
   {
     "year": 2018,
@@ -1227,7 +1245,9 @@
     "route": "Malta (MLA) -> Baden-Baden (FKB)",
     "trip": "Matilda’s birthday",
     "distance": 1529,
-    "duration": "2h 43m"
+    "duration": "2h 43m",
+    "priceEur": 50,
+    "priceOrig": "50.00 EUR"
   },
   {
     "year": 2017,
